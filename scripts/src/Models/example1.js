@@ -1,0 +1,5 @@
+define({
+	username: ''
+	, password: ''
+	, submit: ''
+});
